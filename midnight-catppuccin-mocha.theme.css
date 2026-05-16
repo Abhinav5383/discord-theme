@@ -59,17 +59,17 @@ body {
 
     /* text colors */
     --text-0: var(--bg-3); /* text on colored elements */
-    --text-1: hsl(226, 64%, 95%); /* other normally white text */
-    --text-2: #cdd6f4; /* headings and important text */
-    --text-3: #bac2de; /* normal text */
-    --text-4: #7f849c; /* icon buttons and channels */
-    --text-5: #585b70; /* muted channels/chats and timestamps */
+    --text-1: hsl(226, 45%, 95%); /* other normally white text */
+    --text-2: #cdd6ea; /* headings and important text */
+    --text-3: #bac2d4; /* normal text */
+    --text-4: #7f8492; /* icon buttons and channels */
+    --text-5: #585b66; /* muted channels/chats and timestamps */
 
     /* background and dark colors */
-    --bg-1: #45475a; /* dark buttons when clicked */
-    --bg-2: #313244; /* dark buttons */
-    --bg-3: #181825; /* spacing, secondary elements */
-    --bg-4: #1e1e2e; /* main background color */
+    --bg-1: #454750; /* dark buttons when clicked */
+    --bg-2: #31323a; /* dark buttons */
+    --bg-3: #18181b; /* spacing, secondary elements */
+    --bg-4: #1e1e24; /* main background color */
     --hover: hsla(235, 15%, 53%, 0.1); /* channels and buttons when hovered */
     --active: hsla(235, 15%, 53%, 0.2); /* channels and buttons when clicked or selected */
     --active-2: hsla(235, 15%, 53%, 0.3); /* extra state for transparent buttons */
