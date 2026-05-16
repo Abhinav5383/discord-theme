@@ -34,7 +34,7 @@ body {
     --window-control-size: 14px; /* size of custom window controls */
 
     /* background image options */
-    --background-image: on; /* off: no background image, on: enable background image (must set url variable below) */
+    --background-image: off; /* off: no background image, on: enable background image (must set url variable below) */
     --background-image-url: url('https://raw.githubusercontent.com/Abhinav5383/dotfiles/refs/heads/main/.config/hypr/images/forest_dark_winter.webp'); /* url of the background image */
 
     /* transparency/blur options */
